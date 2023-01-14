@@ -10,8 +10,13 @@
 
 <br/>
 
-### computer_vision_1~6 파트는 다음과 같은 모델 구현(Tensorflow2.0) 포함
-- [CNN](/computer_vision_1.ipynb) / [AlexNet](/computer_vision_1.ipynb)
-- [LeNet-5](/computer_vision_2.ipynb) / [VGGNet(VGG16)](/computer_vision_2.ipynb) / [GoogLeNet](/computer_vision_2.ipynb) / [ResNet-PretrainedModel Load](/computer_vision_2.ipynb) / [VGG16-PretrainedModel Load](/computer_vision_3.ipynb)
-- [SSD7](/computer_vision_4.ipynb) / [Layer Visualization](/computer_vision_6.ipynb) / [DeepDreamGenerator](/computer_vision_6.ipynb) / [Style Transfer](/computer_vision_6.ipynb)
-- [AutoEncoder](/GAN_study_1.ipynb) / [DCGAN](/GAN_study_1.ipynb) / [ProGAN](/GAN_study_3.ipynb) / [SGAN](GAN_study_4.ipynb) / [CGAN](/computer_vision_5.ipynb) / [CycleGAN](/computer_vision_6.ipynb)
+### computer_vision_1~6 파트는 다음과 같은 모델 구현(Tensorflow==2.0) 포함
+- [CNN](/computer_vision_study/computer_vision_1.ipynb) / [AlexNet](/computer_vision_study/computer_vision_1.ipynb)
+- [LeNet-5](/computer_vision_study/computer_vision_2.ipynb) / [VGGNet(VGG16)](/computer_vision_study/computer_vision_2.ipynb) / [GoogLeNet](/computer_vision_study/computer_vision_2.ipynb) / [ResNet-PretrainedModel Load](/computer_vision_study/computer_vision_2.ipynb) / [VGG16-PretrainedModel Load](/computer_vision_study/computer_vision_3.ipynb)
+- [SSD7](/computer_vision_study/computer_vision_4.ipynb) / [Layer Visualization](/computer_vision_study/computer_vision_6.ipynb) / [DeepDreamGenerator](/computer_vision_study/computer_vision_6.ipynb) / [Style Transfer](/computer_vision_study/computer_vision_6.ipynb)
+
+<br/>
+
+### GAN_study_1~6 파트는 다음과 같은 모델 구현(Tensorflow==2.0) 포함
+- [AutoEncoder](/GAN_study/GAN_study_1.ipynb) / [DCGAN](/GAN_study/GAN_study_1.ipynb) / [ProGAN](/GAN_study/GAN_study_3.ipynb) 
+- [SGAN](/GAN_study/GAN_study_4.ipynb) / [CGAN](/GAN_study/GAN_study_5.ipynb) / [CycleGAN](/GAN_study/GAN_study_6.ipynb)
